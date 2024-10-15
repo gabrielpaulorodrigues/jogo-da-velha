@@ -1,6 +1,6 @@
 # Jogo da Velha - React
 
-Este é um projeto de Jogo da Velha (quebra-cabeça) feito em React.
+Este é um projeto de Jogo da Velha feito em React.
 
 ## Tecnologias e Recursos Utilizados
 
